@@ -32,11 +32,11 @@
 //     div.appendChild(para);
 // }
 
-btn.onclick=function(){
-    const div = document.querySelector("div");
-    const h = document.createElement("h1");
+// btn.onclick=function(){
+//     const div = document.querySelector("div");
+//     const h = document.createElement("h1");
 
-    h.textContent="Lorem ipsum dolor sit amet adipiscum liberta";
-    div.appendChild(h);
+//     h.textContent="Lorem ipsum dolor sit amet adipiscum liberta";
+//     div.appendChild(h);
 
-}
+// }
